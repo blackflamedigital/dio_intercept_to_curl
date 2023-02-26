@@ -1,3 +1,7 @@
+## 0.0.5
+
+* Updated example
+
 ## 0.0.4
 
 * Bumped dio to ^5.0.1
