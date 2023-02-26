@@ -1,10 +1,10 @@
-# curl_logger_dio_interceptor
+# dio_intercept_to_curl
 
-[![pub package](https://img.shields.io/pub/v/curl_logger_dio_interceptor.svg)](https://pub.dartlang.org/packages/curl_logger_dio_interceptor)
+[![pub package](https://img.shields.io/pub/v/dio_intercept_to_curl.svg)](https://pub.dartlang.org/packages/dio_intercept_to_curl)
 
 A Flutter curl-command generator for Dio.
 
-![curl_logger_dio_interceptor log output](https://github.com/OwnWeb/curl_logger_dio_interceptor/raw/main/example/assets/example.png?raw=true)
+![dio_intercept_to_curl log output](https://github.com/OwnWeb/dio_intercept_to_curl/raw/main/example/assets/example.png?raw=true)
 
 Easily test your Flutter-made requests in your favorite terminal or even in Postman or Insomnia.
 
@@ -26,7 +26,7 @@ it, and enjoy replaying it easily!
 ```dart
 _dio = Dio();
 
-_dio.interceptors.add(CurlLoggerDioInterceptor());
+_dio.interceptors.add(DioInterceptToCurl());
 ```
 
 Depending on your needs, you can also pass `printOnSuccess: true` to print all requests instead of

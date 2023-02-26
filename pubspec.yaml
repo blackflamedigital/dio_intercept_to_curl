@@ -1,7 +1,7 @@
-name: curl_logger_dio_interceptor
+name: dio_intercept_to_curl
 description: Intercept dio requests and print them as curl requests
 version: 0.0.4
-homepage: https://github.com/LastxTemplar/curl_logger_dio_interceptor_maintained
+homepage: https://github.com/LastxTemplar/dio_intercept_to_curl
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

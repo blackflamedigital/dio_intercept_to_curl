@@ -3,11 +3,11 @@ import 'dart:developer';
 
 import 'package:dio/dio.dart';
 
-class CurlLoggerDioInterceptor extends Interceptor {
+class DioInterceptToCurl extends Interceptor {
   final bool? printOnSuccess;
   final bool convertFormData;
 
-  CurlLoggerDioInterceptor({
+  DioInterceptToCurl({
     this.printOnSuccess,
     this.convertFormData = true
   });

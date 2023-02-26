@@ -1,6 +1,6 @@
-# curl_logger_dio_interceptor_example
+# dio_intercept_to_curl_example
 
-Demonstrates how to use the curl_logger_dio_interceptor plugin.
+Demonstrates how to use the dio_intercept_to_curl plugin.
 
 ## Getting Started
 
