@@ -4,7 +4,7 @@
 
 A Flutter curl-command generator for Dio.
 
-![dio_intercept_to_curl log output](https://github.com/OwnWeb/dio_intercept_to_curl/raw/main/example/assets/example.png?raw=true)
+![dio_intercept_to_curl log output](https://bfd-main-space-amsterdam.ams3.digitaloceanspaces.com/pubdev%2Fdio_intercept_to_curl.png)
 
 Easily test your Flutter-made requests in your favorite terminal or even in Postman or Insomnia.
 
