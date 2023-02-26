@@ -1,3 +1,7 @@
+## 0.0.4
+
+* Bumped dio to ^5.0.1
+
 ## 0.0.3
 
 * Add `convertFormData` param (defaults: `true`) to convert `FormData` to plain `Map` so we can get

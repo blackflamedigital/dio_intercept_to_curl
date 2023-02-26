@@ -1,18 +1,18 @@
 name: curl_logger_dio_interceptor
-description: Get your http requests printed as curl command in your terminal. Share them easily with your colleagues and import them in Postman!
-version: 0.0.3
-homepage: https://github.com/OwnWeb/curl_logger_dio_interceptor
+description: Intercept dio requests and print them as curl requests
+version: 0.0.4
+homepage: https://github.com/LastxTemplar/curl_logger_dio_interceptor_maintained
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.20.0"
 
 dependencies:
-  dio: ^4.0.4
+  dio: ^5.0.1
   flutter:
     sdk: flutter
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.4
+  flutter_lints: ^2.0.1
