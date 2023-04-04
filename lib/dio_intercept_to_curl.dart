@@ -7,10 +7,7 @@ class DioInterceptToCurl extends Interceptor {
   final bool? printOnSuccess;
   final bool convertFormData;
 
-  DioInterceptToCurl({
-    this.printOnSuccess,
-    this.convertFormData = true
-  });
+  DioInterceptToCurl({this.printOnSuccess, this.convertFormData = true});
 
   @override
   void onError(DioError err, ErrorInterceptorHandler handler) {

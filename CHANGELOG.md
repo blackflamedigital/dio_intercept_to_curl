@@ -1,3 +1,12 @@
+## 0.1.0
+
+* Changed repo url
+
+## 0.0.9
+
+* Updated Dio version
+* Tidy up to conform to pub.dev requirements
+
 ## 0.0.7
 
 * Updated readme
