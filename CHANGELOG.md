@@ -1,3 +1,8 @@
+## 0.1.1
+
+* Updated Dio Version
+* Fixed DioError deprecation
+
 ## 0.1.0
 
 * Changed repo url
