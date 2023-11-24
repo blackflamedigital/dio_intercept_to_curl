@@ -1,3 +1,7 @@
+## 0.2.0
+
+* Updated Dependencies
+
 ## 0.1.1
 
 * Updated Dio Version

@@ -57,6 +57,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.blackflamedigital.dio_intercept_to_curl_example'
 }
 
 flutter {

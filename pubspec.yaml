@@ -1,6 +1,6 @@
 name: dio_intercept_to_curl
 description: Intercept Dio requests and print them as curl commands in the debug panel. Easily paste the request in your terminal to run it again. Use it to easily debug your Dio request.
-version: 0.1.1
+version: 0.2.0
 homepage: https://github.com/LastxTemplar/dio_intercept_to_curl
 
 environment:
@@ -15,4 +15,4 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.1
+  flutter_lints: ^3.0.1
